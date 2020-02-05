@@ -1,0 +1,62 @@
+[
+  {
+    "id": 11,
+    "tittel": "Generell Sak"
+  },
+  {
+    "id": 15,
+    "tittel": "Byggesak"
+  },
+  {
+    "id": 16,
+    "tittel": "Plansak"
+  },
+  {
+    "id": 17,
+    "tittel": "Oppmålingssak"
+  },
+  {
+    "id": 23,
+    "tittel": "Kathrine2"
+  },
+  {
+    "id": 20,
+    "tittel": "Delingssak"
+  },
+  {
+    "id": 18,
+    "tittel": "Generell sak LKB"
+  },
+  {
+    "id": 24,
+    "tittel": "Kathrine 3 blank arkivdel"
+  },
+  {
+    "id": 21,
+    "tittel": "Kathrine tester"
+  },
+  {
+    "id": 19,
+    "tittel": "Møtesak"
+  },
+  {
+    "id": 29,
+    "tittel": "Ny sak LKB"
+  },
+  {
+    "id": 27,
+    "tittel": "Sissel klasseringsrekkefølge"
+  },
+  {
+    "id": 26,
+    "tittel": "Sissel Test Filtrering"
+  },
+  {
+    "id": 22,
+    "tittel": "Sissel testsak - teknologi"
+  },
+  {
+    "id": 28,
+    "tittel": "Toppnode"
+  }
+]
